@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/UliaKarpova/gde-parcking/static/css/main.ad6d23c6.css",
+    "main.js": "/UliaKarpova/gde-parcking/static/js/main.58efaff0.js",
+    "static/js/787.6f94d42c.chunk.js": "/UliaKarpova/gde-parcking/static/js/787.6f94d42c.chunk.js",
+    "static/media/background.png": "/UliaKarpova/gde-parcking/static/media/background.f71a6975918417fdd418.png",
+    "static/media/logo.svg": "/UliaKarpova/gde-parcking/static/media/logo.e6c81c36929ac295e243197d04365655.svg",
+    "static/media/settings.svg": "/UliaKarpova/gde-parcking/static/media/settings.d72e2549d78b41800df6b8a36af10e2b.svg",
+    "static/media/star.svg": "/UliaKarpova/gde-parcking/static/media/star.cb996fc38425b4909f2ef29b085675af.svg",
+    "index.html": "/UliaKarpova/gde-parcking/index.html",
+    "static/media/search.svg": "/UliaKarpova/gde-parcking/static/media/search.58c975856d1fd4458936eb85af3225b0.svg",
+    "main.ad6d23c6.css.map": "/UliaKarpova/gde-parcking/static/css/main.ad6d23c6.css.map",
+    "main.58efaff0.js.map": "/UliaKarpova/gde-parcking/static/js/main.58efaff0.js.map",
+    "787.6f94d42c.chunk.js.map": "/UliaKarpova/gde-parcking/static/js/787.6f94d42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad6d23c6.css",
+    "static/js/main.58efaff0.js"
+  ]
+}
