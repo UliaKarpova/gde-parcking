@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gde-parcking/static/css/main.051f5f17.css",
-    "main.js": "/gde-parcking/static/js/main.f6de0cda.js",
-    "static/js/787.6f94d42c.chunk.js": "/gde-parcking/static/js/787.6f94d42c.chunk.js",
-    "static/media/background.png": "/gde-parcking/static/media/background.f71a6975918417fdd418.png",
-    "static/media/logo.svg": "/gde-parcking/static/media/logo.4818bf76409476238e7cd6f168cc2141.svg",
-    "static/media/settings.svg": "/gde-parcking/static/media/settings.5e0c7e640626d1789793d0acfd830026.svg",
-    "static/media/star.svg": "/gde-parcking/static/media/star.c8191745a6671dbe2e70bd30b4f23bbd.svg",
-    "index.html": "/gde-parcking/index.html",
-    "static/media/search.svg": "/gde-parcking/static/media/search.edcef30195923b035067a80a4c42a406.svg",
-    "main.051f5f17.css.map": "/gde-parcking/static/css/main.051f5f17.css.map",
-    "main.f6de0cda.js.map": "/gde-parcking/static/js/main.f6de0cda.js.map",
-    "787.6f94d42c.chunk.js.map": "/gde-parcking/static/js/787.6f94d42c.chunk.js.map"
+    "main.css": "https://uliakarpova/github.io/gde-parcking/static/css/main.051f5f17.css",
+    "main.js": "https://uliakarpova/github.io/gde-parcking/static/js/main.f6de0cda.js",
+    "static/js/787.6f94d42c.chunk.js": "https://uliakarpova/github.io/gde-parcking/static/js/787.6f94d42c.chunk.js",
+    "static/media/background.png": "https://uliakarpova/github.io/gde-parcking/static/media/background.f71a6975918417fdd418.png",
+    "static/media/logo.svg": "https://uliakarpova/github.io/gde-parcking/static/media/logo.4818bf76409476238e7cd6f168cc2141.svg",
+    "static/media/settings.svg": "https://uliakarpova/github.io/gde-parcking/static/media/settings.5e0c7e640626d1789793d0acfd830026.svg",
+    "static/media/star.svg": "https://uliakarpova/github.io/gde-parcking/static/media/star.c8191745a6671dbe2e70bd30b4f23bbd.svg",
+    "index.html": "https://uliakarpova/github.io/gde-parcking/index.html",
+    "static/media/search.svg": "https://uliakarpova/github.io/gde-parcking/static/media/search.edcef30195923b035067a80a4c42a406.svg",
+    "main.051f5f17.css.map": "https://uliakarpova/github.io/gde-parcking/static/css/main.051f5f17.css.map",
+    "main.f6de0cda.js.map": "https://uliakarpova/github.io/gde-parcking/static/js/main.f6de0cda.js.map",
+    "787.6f94d42c.chunk.js.map": "https://uliakarpova/github.io/gde-parcking/static/js/787.6f94d42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.051f5f17.css",
