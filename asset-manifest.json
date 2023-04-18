@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/UliaKarpova/gde-parcking/static/css/main.ad6d23c6.css",
-    "main.js": "/UliaKarpova/gde-parcking/static/js/main.58efaff0.js",
-    "static/js/787.6f94d42c.chunk.js": "/UliaKarpova/gde-parcking/static/js/787.6f94d42c.chunk.js",
-    "static/media/background.png": "/UliaKarpova/gde-parcking/static/media/background.f71a6975918417fdd418.png",
-    "static/media/logo.svg": "/UliaKarpova/gde-parcking/static/media/logo.e6c81c36929ac295e243197d04365655.svg",
-    "static/media/settings.svg": "/UliaKarpova/gde-parcking/static/media/settings.d72e2549d78b41800df6b8a36af10e2b.svg",
-    "static/media/star.svg": "/UliaKarpova/gde-parcking/static/media/star.cb996fc38425b4909f2ef29b085675af.svg",
-    "index.html": "/UliaKarpova/gde-parcking/index.html",
-    "static/media/search.svg": "/UliaKarpova/gde-parcking/static/media/search.58c975856d1fd4458936eb85af3225b0.svg",
-    "main.ad6d23c6.css.map": "/UliaKarpova/gde-parcking/static/css/main.ad6d23c6.css.map",
-    "main.58efaff0.js.map": "/UliaKarpova/gde-parcking/static/js/main.58efaff0.js.map",
-    "787.6f94d42c.chunk.js.map": "/UliaKarpova/gde-parcking/static/js/787.6f94d42c.chunk.js.map"
+    "main.css": "/UliaKarpova/github.io/gde-parcking/static/css/main.67250019.css",
+    "main.js": "/UliaKarpova/github.io/gde-parcking/static/js/main.f2e23b49.js",
+    "static/js/787.6f94d42c.chunk.js": "/UliaKarpova/github.io/gde-parcking/static/js/787.6f94d42c.chunk.js",
+    "static/media/background.png": "/UliaKarpova/github.io/gde-parcking/static/media/background.f71a6975918417fdd418.png",
+    "static/media/logo.svg": "/UliaKarpova/github.io/gde-parcking/static/media/logo.4818bf76409476238e7cd6f168cc2141.svg",
+    "static/media/settings.svg": "/UliaKarpova/github.io/gde-parcking/static/media/settings.5e0c7e640626d1789793d0acfd830026.svg",
+    "static/media/star.svg": "/UliaKarpova/github.io/gde-parcking/static/media/star.c8191745a6671dbe2e70bd30b4f23bbd.svg",
+    "index.html": "/UliaKarpova/github.io/gde-parcking/index.html",
+    "static/media/search.svg": "/UliaKarpova/github.io/gde-parcking/static/media/search.edcef30195923b035067a80a4c42a406.svg",
+    "main.67250019.css.map": "/UliaKarpova/github.io/gde-parcking/static/css/main.67250019.css.map",
+    "main.f2e23b49.js.map": "/UliaKarpova/github.io/gde-parcking/static/js/main.f2e23b49.js.map",
+    "787.6f94d42c.chunk.js.map": "/UliaKarpova/github.io/gde-parcking/static/js/787.6f94d42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad6d23c6.css",
-    "static/js/main.58efaff0.js"
+    "static/css/main.67250019.css",
+    "static/js/main.f2e23b49.js"
   ]
 }
